@@ -104,6 +104,7 @@ nav img{
 }
 
 nav{    
+border-top:1px solid #555;
 background-color: #CC4B2C;
 display: flex;
 align-items: center;
