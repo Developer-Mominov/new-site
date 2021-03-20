@@ -13,8 +13,7 @@ var t=window.outerWidth;
 
 function loading(){
  
- $(body).requestFullscreen();
- 
+    window.scrollTo(0, 1);
     size();
     setTimeout(() => {
     gif.css({
