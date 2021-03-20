@@ -12,8 +12,7 @@ var t=window.outerWidth;
 
 
 function loading(){
- 
-    window.scrollTo(0, 1);
+
     size();
     setTimeout(() => {
     gif.css({
