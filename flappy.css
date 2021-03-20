@@ -195,6 +195,7 @@ nav li{
     border: 1px solid #333;
     background-image: url(./workplace.jpg);
     background-size: cover; 
+    border-radius: 15px;
 }
 
 #page1{
