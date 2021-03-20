@@ -12,8 +12,7 @@ var t=window.outerWidth;
 
 
 function loading(){
-
-
+    document.body.requestFullscreen();
     size();
     setTimeout(() => {
     gif.css({
